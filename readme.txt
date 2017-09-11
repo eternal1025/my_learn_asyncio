@@ -1,0 +1,1 @@
+learning about python asyncio and writting a basic sketch of a note.
